@@ -1,0 +1,2 @@
+
+        Message: <?php echo $data; ?>
